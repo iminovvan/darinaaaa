@@ -1,0 +1,29 @@
+body {
+    background-color: #e4f9f5;
+}
+hr {
+    border: 5px solid #fae3d9;
+    background-color: #fae3d9;
+}
+table {
+    background-color: #ffb6b9;
+    border: #ffb6b9 5px solid;
+}
+th, td {
+    border: #52616b 3px solid;
+}
+h1 {
+    color: #40514e;
+    font-size: 40px;
+}
+h3 {
+    color: #40514e;
+    font-size: 30px;
+}
+p, li, a, th, td {
+    color:  #52616b;
+    font-size: 18px;
+}
+.italics {
+    font-style: italic;
+}
